@@ -1,0 +1,10 @@
+C:\Users\eray_\Desktop\Mimari_Final\obj\Debug\Mimari_Final.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\Mimari_Final\obj\Debug\KartOlustur.MasterCard.resources
+C:\Users\eray_\Desktop\Mimari_Final\obj\Debug\Mimari_Final.Properties.Resources.resources
+C:\Users\eray_\Desktop\Mimari_Final\obj\Debug\Mimari_Final.csproj.GenerateResource.cache
+C:\Users\eray_\Desktop\Mimari_Final\obj\Debug\Mimari_Final.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\projeler\Yazılım Mimarisi Ve Tasarımı Final\obj\Debug\Mimari_Final.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\projeler\Yazılım Mimarisi Ve Tasarımı Final\obj\Debug\KartOlustur.MasterCard.resources
+C:\Users\eray_\Desktop\projeler\Yazılım Mimarisi Ve Tasarımı Final\obj\Debug\Mimari_Final.Properties.Resources.resources
+C:\Users\eray_\Desktop\projeler\Yazılım Mimarisi Ve Tasarımı Final\obj\Debug\Mimari_Final.csproj.GenerateResource.cache
+C:\Users\eray_\Desktop\projeler\Yazılım Mimarisi Ve Tasarımı Final\obj\Debug\Mimari_Final.csproj.CoreCompileInputs.cache
